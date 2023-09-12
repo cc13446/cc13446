@@ -13,8 +13,8 @@
 ### Tech Stack
 - 💻
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat&logo=Groovy)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript)
+![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat&logo=ApacheGroovy)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
