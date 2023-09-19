@@ -36,6 +36,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ![cc13446's GitHub stats](https://github-readme-stats.vercel.app/api?username=cc13446&show_icons=true&theme=radical)
-![cc13446's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cc13446&layout=compact&hide_border=true&hide_title=true)
+![cc13446's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cc13446&layout=compact&hide_border=true&hide_title=true&theme=radical)
 
 # This is me
